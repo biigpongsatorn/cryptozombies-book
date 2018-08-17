@@ -25,7 +25,7 @@
 - [Storage vs Memory](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/7.md)
 - [DNA ซอมบี้](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/8.md)
 - [เนื้อหาเรื่อง Function Visibility เพิ่มเติม (Internal และ External)](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/9.md)
-- [xxxxx](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/xxxxx.md)
+- [การมีปฎิสัมพันธ์กับ contract อื่น](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/10.md)
 - [xxxxx](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/xxxxx.md)
 - [xxxxx](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/xxxxx.md)
 - [xxxxx](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/xxxxx.md)

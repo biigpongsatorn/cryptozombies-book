@@ -30,4 +30,3 @@
 - [การจัดการ Return Values จำนวนมาก](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/12.md)
 - [Genes](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/13.md)
 - [การอิมพลีเมนท์ Javascript](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/14.md)
-- [xxxxx](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/xxxxx.md)

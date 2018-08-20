@@ -28,6 +28,5 @@
 - [การมีปฎิสัมพันธ์กับ contract อื่น](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/10.md)
 - [การใช้ Interface](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/11.md)
 - [การจัดการ Return Values จำนวนมาก](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/12.md)
-- [xxxxx](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/xxxxx.md)
-- [xxxxx](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/xxxxx.md)
-- [xxxxx](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/xxxxx.md)
+- [Genes](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/13.md)
+- [การอิมพลีเมนท์ Javascript](https://github.com/biigpongsatorn/cryptozombies-book-th/blob/master/lesson2/14.md)
